@@ -1,8 +1,0 @@
-# Ignore IntelliJ IDEA folder
-**/.idea/
-
-# Ignore generated output folder
-**/out/
-
-# Ignore IntelliJ IDEA project files
-**/*.iml
